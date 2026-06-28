@@ -186,17 +186,20 @@
 
 ---
 
-## 🤝 Let's Connect
-
----
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:sankeerthanakoleti@gmail.com"><img src="https://img.
-shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></
-a>
-  <a href="https://linkedin.com/in/koleti-sankeerthana-a093612a4"><img 
-src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?
-style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:sankeerthanakoleti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sankeerthanakoleti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/koleti-sankeerthana-a093612a4">
+    <img src="https://img.shields.io/badge/LinkedIn-Koleti%20Sankeerthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>💬 Open to AI Engineering, Agentic AI, Machine Learning, Open Source, and Internship Opportunities.</i>
 </p>
 
 ---
