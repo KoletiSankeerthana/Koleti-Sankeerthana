@@ -1,118 +1,119 @@
-<h1 align="center">Hi 👋, I'm K L Aadithya</h1>
-<h3 align="center">Cybersecurity Enthusiast • AI Developer • Backend Engineer</h3>
+# Hi 👋, I'm Koleti Sankeerthana
+
+<h3 align="center">AI Engineer • Agentic AI Developer • Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Future+Security+Engineer;FastAPI+Backend+Developer;Building+AI+%2B+Cybersecurity+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+Computing+%26+Data+Science+Student;AI+Engineer+%7C+Agentic+AI+Developer;Building+Autonomous+Enterprise+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
-  <a href="mailto:klaadithya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-klaadithya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sankeerthanakoleti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sankeerthanakoleti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/aadithya">
-    <img src="https://img.shields.io/badge/LinkedIn-Aadithya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/koleti-sankeerthana-a093612a4">
+    <img src="https://img.shields.io/badge/LinkedIn-Koleti%20Sankeerthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aadithya-k1&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/KoletiSankeerthana">
+    <img src="https://img.shields.io/badge/GitHub-KoletiSankeerthana-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KoletiSankeerthana&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Data Science student at **Sai University**
-- 🔐 Passionate about Cybersecurity, Ethical Hacking, Network Security, and Secure Software Development
-- 🤖 Building AI Applications, RAG Systems, Agentic AI Workflows, and Enterprise Solutions
-- 🐧 Learning Kali Linux, Penetration Testing, Security Operations, and Threat Detection
-- 📸 President of the Photography Club at Sai University
-- 🏆 Active Hackathon Participant and Builder
+- 🎓 **B.Tech (4th Year) - Computing and Data Science, Sai University**
+- 🤖 AI Engineer focused on **Agentic AI, Enterprise AI, LLM Applications, RAG Systems and Backend Development**
+- 🚀 Currently building **Autonomous Enterprise Compliance AI**
+- 🧠 Interested in AI Infrastructure, Intelligent Automation and Multi-Agent Systems
+- 💡 Passionate about solving real-world problems through scalable AI systems
 
-**🌱 Currently Learning:**
-`Advanced Cybersecurity` · `MCP (Model Context Protocol)` · `AI Agents` · `FastAPI Architecture` · `RAG Systems` · `Security Engineering`
+### 🌱 Currently Learning
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,c,javascript,html,css" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
-
-**AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-
-**Cybersecurity**
-
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Network Security](https://img.shields.io/badge/-Network%20Security-3776AB?style=flat-square)
-![Threat Detection](https://img.shields.io/badge/-Threat%20Detection-DC3545?style=flat-square)
-![Secure Dev Practices](https://img.shields.io/badge/-Secure%20Dev%20Practices-28A745?style=flat-square)
-![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability%20Assessment-FF9800?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP%20Concepts-000000?style=flat-square&logo=owasp&logoColor=white)
+`LangGraph` • `CrewAI` • `MCP` • `FastAPI` • `Docker` • `Kubernetes` • `Advanced RAG` • `AI Agents`
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ ADEGuard AI</h3>
-      <p><b>AI-Powered Threat Detection System</b></p>
-      <ul>
-        <li>FastAPI Backend</li>
-        <li>Regex + NLP Detection</li>
-        <li>Real-Time Threat Analysis</li>
-        <li>Security-Focused Architecture</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>📋 Enterprise Compliance & Audit Intelligence Platform</h3>
-      <p><b>Enterprise-grade AI-powered compliance management platform</b></p>
-      <ul>
-        <li>FastAPI</li>
-        <li>RBAC Authentication</li>
-        <li>AI Compliance Analysis</li>
-        <li>Audit Automation</li>
-        <li>Production Architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
+
+### AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-success?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=huggingface)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgresql" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 Areas of Interest
+
+- Agentic AI
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- AI Automation
+- Enterprise AI
+- NLP
+- Generative AI
+- MLOps
+- Backend Engineering
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aadithya-k1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-k1&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithya-k1&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadithya-k1&theme=tokyonight&hide_border=true&card_width=600&row=1&column=7" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+
+- AI Engineering
+- Agentic AI
+- Enterprise AI
+- LLM Applications
+- Open Source
+- Research Projects
+
+<p align="center">
+  <a href="mailto:sankeerthanakoleti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://linkedin.com/in/koleti-sankeerthana-a093612a4"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/Aadithya-k1">Aadithya-k1</a> — Open to collaborations on AI & Cybersecurity projects!</i>
+<i>⭐ Building Autonomous Enterprise AI Systems • Always learning, always building.</i>
 </p>
