@@ -206,7 +206,7 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
 
 </p>
----
+
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -224,7 +224,7 @@
   <i>💬 Open to AI Engineering, Agentic AI, Machine Learning, Open Source, and Internship Opportunities.</i>
 </p>
 
----
+
 
 <p align="center">
 <i>⭐ Building Autonomous Enterprise AI Systems • Always learning, always building.</i>
