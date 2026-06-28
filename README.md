@@ -31,52 +31,114 @@
 
 ### 🌱 Currently Learning
 
-`LangGraph` • `CrewAI` • `MCP` • `FastAPI` • `Docker` • `Kubernetes` • `Advanced RAG` • `AI Agents`
+`LangGraph` • `MCP` • `FastAPI` • `RAG` • `AI Agents`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
+### 💻 Programming Languages
 
-### AI / LLM
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-success?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=huggingface)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
-
-### Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgresql" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Areas of Interest
+### 🤖 AI & Machine Learning
 
-- Agentic AI
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- AI Automation
-- Enterprise AI
-- NLP
-- Generative AI
-- MLOps
-- Backend Engineering
+<p>
 
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace_Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Groq_API-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-9333EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi_Agent_Systems-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github"/>
+
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/DVC-13B5EA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
+
+</p>
+
+---
+
+### 📊 Data Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+</p>
+
+---
+
+### ⚙️ Version Control
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+</p>
 ---
 
 ## 📊 GitHub Statistics
