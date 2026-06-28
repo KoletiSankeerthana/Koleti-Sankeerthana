@@ -188,6 +188,8 @@
 
 ## 🤝 Let's Connect
 
+---
+
 <p align="center">
   <a href="mailto:sankeerthanakoleti@gmail.com"><img src="https://img.
 shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></
@@ -197,8 +199,7 @@ src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?
 style=for-the-badge&logo=linkedin"/></a>
 </p>
 
-
-
+---
 
 <p align="center">
 <i>⭐ Building Autonomous Enterprise AI Systems • Always learning, always building.</i>
