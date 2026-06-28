@@ -160,14 +160,30 @@
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on:
+## 📊 GitHub Analytics
 
-- AI Engineering
-- Agentic AI
-- Enterprise AI
-- LLM Applications
-- Open Source
-- Research Projects
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 
 <p align="center">
   <a href="mailto:sankeerthanakoleti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
