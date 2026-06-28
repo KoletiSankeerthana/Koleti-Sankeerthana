@@ -1,4 +1,6 @@
-# Hi 👋, I'm Koleti Sankeerthana
+<h1 align="center">
+  Hi 👋, I'm Koleti Sankeerthana
+</h1>
 
 <h3 align="center">AI Engineer • Agentic AI Developer • Backend Engineer</h3>
 
@@ -122,6 +124,32 @@
 
 ---
 
+## 🔐 Cybersecurity
+
+<p>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-EA4335?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Network_Security-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Penetration_Testing-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Threat_Detection-DC2626?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cryptography-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Packet_Analysis-00897B?style=for-the-badge"/>
+
+</p>
+
 ### 📊 Data Tools
 
 <p>
@@ -160,37 +188,6 @@
 
 ## 🤝 Let's Connect
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-  <a href="mailto:sankeerthanakoleti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/koleti-sankeerthana-a093612a4"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-</p>
-
----
 
 <p align="center">
 <i>⭐ Building Autonomous Enterprise AI Systems • Always learning, always building.</i>
