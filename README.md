@@ -169,21 +169,43 @@
 </p>
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night"/>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
 
+</p>
 ---
 
 <h2 align="center">🤝 Let's Connect</h2>
