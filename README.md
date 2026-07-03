@@ -173,17 +173,19 @@
 
 <table align="center">
 <tr>
+
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 
 </td>
+
 </tr>
 </table>
 
@@ -193,7 +195,7 @@
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -203,7 +205,7 @@
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
