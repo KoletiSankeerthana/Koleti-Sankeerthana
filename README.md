@@ -176,13 +176,13 @@
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KoletiSankeerthana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KoletiSankeerthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 
 </td>
 
@@ -195,7 +195,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=KoletiSankeerthana&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -205,7 +205,27 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KoletiSankeerthana&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KoletiSankeerthana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KoletiSankeerthana/KoletiSankeerthana/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
@@ -223,7 +243,7 @@
 </p>
 
 <p align="center">
-  <i>💬 Open to AI Engineering, Agentic AI, Machine Learning, Open Source, and Internship Opportunities.</i>
+  <i>💬 Open to AI Engineering, Agentic AI, Machine Learning,DataScience Internship Opportunities.</i>
 </p>
 
 
